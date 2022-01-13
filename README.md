@@ -1,6 +1,6 @@
 Interactive Performances
 ====
-
+![yinyang](/img/yinyang2016.png)
 [Yin and Yang, 2016.03, Interactive dance performance](https://youtu.be/upvl0Jtjzso)
 
 [No More than Skins, 2016.05, Suzhou Culture and Arts Center, Interactive dance performance](https://youtu.be/upvl0Jtjzso)
