@@ -10,7 +10,7 @@ Interactive Performances
 
 Audio Visualization and Interactive Music Performance
 ====
-![springriver](/img/springriver.png)
+![springriver](/img/springriver.PNG)
 
 Spring River under the Moonlight, 2021
 
@@ -28,7 +28,7 @@ VR/MR
 
 [S. Du, T. Ge, J. Pei, J. Wang, C. Yin and Y. Zhu, "Panoramic Fluid Painting," 2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR), 2019, pp. 904-905](https://youtu.be/upvl0Jtjzso)
 
-![ibl](/img/ibl.png)
+![ibl](/img/ibl.PNG)
 
 [Y.Zhu et al., "An Interactive Mixed Reality Platform for Inquiry-Based Education," 2021 IEEE 7th International Conference on Virtual Reality (ICVR), 2021, pp. 324-331](https://ieeexplore.ieee.org/document/9483827)
 
@@ -55,15 +55,15 @@ Physics-based simulation
 Interactive Info Visualization
 ====
 
-![infovis](/img/infovis.png)
+![infovis](/img/infovis.PNG)
 
 Student works
 ====
 
 ![chenyining](/img/chenyining.png)
 ![tangziyan](/img/tangziyan.png)
-![zhangmingxuan](/img/zhangmingxuan.png)
-![caojun](/img/caojun.png)
+![zhangmingxuan](/img/zhangmingxuan.PNG)
+![caojun](/img/caojun.PNG)
 
 Other tests(Coming soon......)
 ====
