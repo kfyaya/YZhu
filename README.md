@@ -55,6 +55,7 @@ Physics-based simulation
 Interactive Info Visualization
 ====
 
+![infovis](/img/infovis.png)
 
 Student works
 ====
