@@ -24,8 +24,8 @@ Dialogue 2.0, 2021
 
 Dialogue, Shanghai Spring Music Festival, 2020
 
-<img src="/img/75.jpg" width = "500" />
-<img src="/img/62.jpg" width = "500" />
+<img src="/img/75.png" width = "500" />
+<img src="/img/62.png" width = "500" />
 
 Manjusaka, 2019.05, MIFA 1862, Shanghai
 
