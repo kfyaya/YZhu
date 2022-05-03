@@ -1,6 +1,7 @@
 Interactive Dance
 ====
-![yinyang2016](/img/yinyang2016.jpg =300x)
+![yinyang2016](/img/yinyang2016.jpg)
+<img src="/img/yinyang2016.jpg" width = "500" />
 
 [Yin and Yang, 2016.03, Interactive dance performance](https://youtu.be/upvl0Jtjzso)
 
