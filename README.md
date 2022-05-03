@@ -1,4 +1,4 @@
-Interactive Performances
+Interactive Dance
 ====
 ![yinyang2016](/img/yinyang2016.jpg)
 
@@ -6,17 +6,17 @@ Interactive Performances
 
 ![nomorethanskin2016](/img/nomorethanskin2016.jpg)
 
-[No More than Skins, 2016.05, Suzhou Culture and Arts Center, Interactive dance performance](https://youtu.be/upvl0Jtjzso)
+[No More than Skins, 2016.05, Suzhou Culture and Arts Center, invited by San Francisco International Arts Festival. ](https://youtu.be/upvl0Jtjzso)
 
-Audio Visualization and Interactive Music Performance
+Audio Visualization
 ====
 ![springriver](/img/springriver.jpg)
 
-Spring River under the Moonlight, 2021
+Dialogue 2.0, Spring River under the Moonlight, 2021
 
 ![yellowriver](/img/yellowriver.jpg)
 
-Yellow River, 2021
+Dialogue 2.0, 2021
 
 ![shanghaispring2019](/img/shanghaispring2019.jpg)
 
@@ -24,6 +24,8 @@ Dialogue, Shanghai Spring Music Festival, 2020
 
 VR/MR
 ====
+![dunhuang285](/img/dunhuang285.jpg)
+
 ![pfp](/img/pfp.jpg)
 
 [S. Du, T. Ge, J. Pei, J. Wang, C. Yin and Y. Zhu, "Panoramic Fluid Painting," 2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR), 2019, pp. 904-905](https://youtu.be/upvl0Jtjzso)
@@ -50,10 +52,12 @@ Physics-based simulation
 
 [A.McAdams et al. 2011. Efficient elasticity for character skinning with contact and collisions. ACM Trans. Graph. 30, 4, Article 37 (July 2011), 12 pages.](https://dl.acm.org/doi/10.1145/2010324.1964932)
 
-Interactive Info Visualization
+Info Visualization
 ====
 
 ![infovis](/img/infovis.jpg)
+![shanghailib](/img/shanghailib.jpg)
+
 
 Student works
 ====
