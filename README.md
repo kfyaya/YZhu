@@ -1,3 +1,5 @@
+I am a Physics-based Animation algorithm coder, visual effects developer, and interactive media art educator and researcher. I have been seeking for procedural solutions to utilize computer graphics and visual effects techniques and build up sustainable visualization solutions in a variety of fields . 
+
 Interactive Dance
 ====
 <img src="/img/yinyang2016.jpg" width = "1000" />
@@ -12,7 +14,7 @@ Audio Visualization
 ====
 <img src="/img/springriver.jpg" width = "1000" />
 
-Dialogue 2.0, Spring River under the Moonlight, 2021
+Dialogue 2.0 - Spring River under the Moonlight, 2021
 
 <img src="/img/yellowriver.jpg" width = "1000" />
 
@@ -21,6 +23,11 @@ Dialogue 2.0, 2021
 <img src="/img/shanghaispring2019.jpg" width = "1000" />
 
 Dialogue, Shanghai Spring Music Festival, 2020
+
+<img src="/img/75.jpg" width = "500" />
+<img src="/img/62.jpg" width = "500" />
+
+Manjusaka, 2019.05, MIFA 1862, Shanghai
 
 VR/MR
 ====
@@ -56,7 +63,9 @@ Info Visualization
 ====
 
 <img src="/img/infovis.jpg" width = "1000" />
+Digital city
 <img src="/img/shanghailib1.jpg" width = "1000" />
+Digital humanity
 
 Student works
 ====
