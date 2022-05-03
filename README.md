@@ -1,37 +1,36 @@
 Interactive Dance
 ====
-![yinyang2016](/img/yinyang2016.jpg)
-<img src="/img/yinyang2016.jpg" width = "500" />
+<img src="/img/yinyang2016.jpg" width = "1000" />
 
 [Yin and Yang, 2016.03, Interactive dance performance](https://youtu.be/upvl0Jtjzso)
 
-![nomorethanskin2016](/img/nomorethanskin2016.jpg)
+<img src="/img/nomorethanskin2016.jpg" width = "1000" />
 
 [No More than Skins, 2016.05, Suzhou Culture and Arts Center, invited by San Francisco International Arts Festival. ](https://youtu.be/upvl0Jtjzso)
 
 Audio Visualization
 ====
-![springriver](/img/springriver.jpg)
+<img src="/img/springriver.jpg" width = "1000" />
 
 Dialogue 2.0, Spring River under the Moonlight, 2021
 
-![yellowriver](/img/yellowriver.jpg)
+<img src="/img/yellowriver.jpg" width = "1000" />
 
 Dialogue 2.0, 2021
 
-![shanghaispring2019](/img/shanghaispring2019.jpg)
+<img src="/img/shanghaispring2019.jpg" width = "1000" />
 
 Dialogue, Shanghai Spring Music Festival, 2020
 
 VR/MR
 ====
-![dunhuang285](/img/dunhuang285.jpg)
+<img src="/img/dunhuang285.jpg" width = "1000" />
 
-![pfp](/img/pfp.jpg)
+<img src="/img/pfp.jpg" width = "1000" />
 
 [S. Du, T. Ge, J. Pei, J. Wang, C. Yin and Y. Zhu, "Panoramic Fluid Painting," 2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR), 2019, pp. 904-905](https://youtu.be/upvl0Jtjzso)
 
-![ibl](/img/ibl.jpg)
+<img src="/img/ibl.jpg" width = "1000" />
 
 [Y.Zhu et al., "An Interactive Mixed Reality Platform for Inquiry-Based Education," 2021 IEEE 7th International Conference on Virtual Reality (ICVR), 2021, pp. 324-331](https://ieeexplore.ieee.org/document/9483827)
 
@@ -41,32 +40,31 @@ VR/MR
 Physics-based simulation
 ====
 
-![sand](/img/sand.jpg)
+<img src="/img/sand.jpg" width = "1000" />
 
 [Y. Zhu and R. Bridson. 2005. Animating sand as a fluid. ACM Trans. Graph. 24, 3 (July 2005), 965–972.](https://dl.acm.org/doi/10.1145/1073204.1073298)
 
-![mg](/img/mg.jpg)
+<img src="/img/mg.jpg" width = "1000" />
 
 [Z.Zhu, E. Sifakis, J. Teran, and A. Brandt. 2010. An efficient multigrid method for the simulation of high-resolution elastic solids. ACM Trans. Graph. 29, 2, Article 16 (March 2010), 18 pages.](https://dl.acm.org/doi/10.1145/1731047.1731054)
 
-![charskinning](/img/charskinning.jpg)
+<img src="/img/charskinning.jpg" width = "1000" />
 
 [A.McAdams et al. 2011. Efficient elasticity for character skinning with contact and collisions. ACM Trans. Graph. 30, 4, Article 37 (July 2011), 12 pages.](https://dl.acm.org/doi/10.1145/2010324.1964932)
 
 Info Visualization
 ====
 
-![infovis](/img/infovis.jpg)
-![shanghailib](/img/shanghailib.jpg)
-
+<img src="/img/infovis.jpg" width = "1000" />
+<img src="/img/shanghailib.jpg" width = "1000" />
 
 Student works
 ====
 
-![chenyining](/img/chenyining.jpg)
-![tangziyan](/img/tangziyan.jpg)
-![zhangmingxuan](/img/zhangmingxuan.jpg)
-![caojun](/img/caojun.jpg)
+<img src="/img/chenyining.jpg" width = "1000" />
+<img src="/img/tangziyan.jpg" width = "1000" />
+<img src="/img/zhangmingxuan.jpg" width = "1000" />
+<img src="/img/caojun.jpg" width = "1000" />
 
 Course Information
 ====
