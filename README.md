@@ -56,7 +56,7 @@ Info Visualization
 ====
 
 <img src="/img/infovis.jpg" width = "1000" />
-<img src="/img/shanghailib.jpg" width = "1000" />
+<img src="/img/shanghailib1.jpg" width = "1000" />
 
 Student works
 ====
