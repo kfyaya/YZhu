@@ -2,7 +2,7 @@ I am a Physics-based Animation algorithm coder, visual effects developer, and in
 
 Interactive Dance
 ====
-<img src="/img/rehearsal1.mp4_20170510_115102.394" width = "1000" />
+<img src="/img/rehearsal1.mp4_20170510_115102.394.jpg" width = "1000" />
 
 [Yin and Yang, 2016.03, Interactive dance performance, Tongji University](https://youtu.be/upvl0Jtjzso)
 
