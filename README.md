@@ -87,14 +87,18 @@ Digital Humanities Platform in Shanghai library keeps nearly a million records a
 
 Student works
 ====
-I have been teaching Interactive Programming and New Media Art in Tongji University. Here are a collection of the student works:
+I have been teaching Interactive Programming and New Media Art in Tongji University mainly with Houdini, TouchDesigner and Unreal Engine. Here is a collection of the student works:
 * [2018 student works in Shanghai Spring International Music Festival](https://mp.weixin.qq.com/s/vcA09qC7PdqaqlnhkXyuGQ)
 * [2019 student works](https://www.manamana.net/video/detail?id=58733#!en).
 * [2020 student works](https://mp.weixin.qq.com/s/XJS4VDbDi-yE0CIwLGko3g)
 <img src="/img/chenyining.jpg" width = "1000" />
+Yining Chen
 <img src="/img/tangziyan.jpg" width = "1000" />
+Ziyan Tang
 <img src="/img/zhangmingxuan.jpg" width = "1000" />
+Mingxuan Zhang
 <img src="/img/caojun.jpg" width = "1000" />
+Jun Cao
 
 Course Information
 ====
