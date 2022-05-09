@@ -2,9 +2,12 @@ Yongning Zhu
 ====
 
 Physics-based Animation algorithm developer originally developing the FLIP fluid simulation and multigrid character simulation,
+
 computer graphics and visual effects software engineer in DreamWorks Animation, 
-and interactive media art educator and researcher in Tongji University. 
-I have been seeking for procedural solutions utilizing computer graphics and visual effects techniques to build up sustainable visualization solutions in a variety of fields. 
+
+and interactive media art educator and researcher in Tongji University, 
+
+Persistently seeking for procedural solutions utilizing computer graphics and visual effects techniques to build up sustainable visualization solutions in a variety of fields. 
 
 Audio Visualization
 ====
