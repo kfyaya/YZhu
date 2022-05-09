@@ -1,15 +1,5 @@
 I am a Physics-based Animation algorithm coder, visual effects developer, and interactive media art educator and researcher. I have been seeking for procedural solutions to utilize computer graphics and visual effects techniques and build up sustainable visualization solutions in a variety of fields . 
 
-Interactive Dance
-====
-<img src="/img/rehearsal1.mp4_20170510_115102.394.jpg" width = "1000" />
-
-[Yin and Yang, 2016.03, Interactive dance performance, Tongji University](https://youtu.be/upvl0Jtjzso)
-
-<img src="/img/nomorethanskin2016.jpg" width = "1000" />
-
-[No More than Skins, 2016.05, Suzhou Culture and Arts Center, invited by San Francisco International Arts Festival. ](https://youtu.be/upvl0Jtjzso)
-
 Audio Visualization
 ====
 
@@ -29,16 +19,27 @@ join to present our new media art Concert: Dialogue 2.0
 
 <img src="/img/shanghaispring2019.jpg" width = "1000" />
 
-[Dialogue, Shanghai Spring Music Festival, 202](https://mp.weixin.qq.com/s/vcA09qC7PdqaqlnhkXyuGQ)
+[Dialogue](https://mp.weixin.qq.com/s/vcA09qC7PdqaqlnhkXyuGQ), Shanghai Spring Music Festival, 2021
 
 <img src="/img/75.png" width = "1000" />
 
 Manjusaka, 2019.05, MIFA 1862, Shanghai
 
+Interactive Dance
+====
+<img src="/img/rehearsal1.mp4_20170510_115102.394.jpg" width = "1000" />
+
+[Yin and Yang](https://youtu.be/upvl0Jtjzso), 2016.03, Interactive dance performance, Tongji University
+
+<img src="/img/nomorethanskin2016.jpg" width = "1000" />
+
+[Hope is the Thing with Feathers - II, No More than Skins](https://youtu.be/upvl0Jtjzso), 2016.05, Suzhou Culture and Arts Center, invited by San Francisco International Arts Festival. 
+
 VR/MR
 ====
 
 <img src="/img/dunhuang285.jpg" width = "1000" />
+An immersive virtual environment revealing Dunhuang research in MetaVerse.
 
 <img src="/img/pfp.jpg" width = "1000" />
 
@@ -67,11 +68,9 @@ Multigrid methods are wellknown as a fast solver for elasticity problems. Howeve
 
 [A.McAdams et al. 2011. Efficient elasticity for character skinning with contact and collisions. ACM Trans. Graph. 30, 4, Article 37 (July 2011), 12 pages.](https://dl.acm.org/doi/10.1145/2010324.1964932)
 
-Info Visualization
+Digital Humanity Visualization
 ====
 
-<img src="/img/infovis.jpg" width = "1000" />
-Digital city
 <img src="/img/shanghailib1.jpg" width = "1000" />
 Digital humanity
 Digital Humanities Platform in Shanghai library keeps nearly a million records about historical characters and events. These characters and events are marked by the researchers with their humanity values, classes, keywords, and relationships with other items. Our visualization builds up a hierarchical structure in the immersive virtual world to reveal the compacity, complexity and availability of this database. 
