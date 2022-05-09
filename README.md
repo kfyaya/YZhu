@@ -38,7 +38,7 @@ Interactive Dance
 VR/MR
 ====
 
-<img src="/img/dunhuang285.jpg" width = "1000" />
+<img src="/img/dunhuang285.png" width = "1000" />
 An immersive virtual environment revealing Dunhuang research in MetaVerse.
 
 <img src="/img/pfp.jpg" width = "1000" />
