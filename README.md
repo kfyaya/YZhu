@@ -12,7 +12,7 @@ Persistently seeking for procedural solutions utilizing computer graphics and vi
 Audio Visualization
 ====
 
-<img src="/img/springriver.jpg" width = "1000" />
+<img src="https://github.com/kfyaya/YZhu/blob/master/img/springriver.jpg" width = "1000" />
 
 Dialogue 2.0, 2021, Tongji University
 
