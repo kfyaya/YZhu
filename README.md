@@ -54,6 +54,7 @@ An immersive virtual environment revealing Dunhuang research in MetaVerse.
 
 [S. Du, T. Ge, J. Pei, J. Wang, C. Yin and Y. Zhu, "Panoramic Fluid Painting," 2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR), 2019, pp. 904-905](https://youtu.be/upvl0Jtjzso)
 
+<img src="img/result.PNG" width = "1000" />
 <img src="img/ibl.jpg" width = "1000" />
 
 [Y.Zhu et al., "An Interactive Mixed Reality Platform for Inquiry-Based Education," 2021 IEEE 7th International Conference on Virtual Reality (ICVR), 2021, pp. 324-331](https://ieeexplore.ieee.org/document/9483827)
