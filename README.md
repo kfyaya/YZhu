@@ -16,7 +16,7 @@ Audio Visualization
 
 Dialogue 2.0, 2021, Tongji University
 
-<img src="https://github.com/kfyaya/YZhu/blob/master/img/yellowriver.jpg" width = "1000" />
+<img src="img/yellowriver.jpg" width = "1000" />
 
 Dialogue 2.0, 2021 (Coming soon....)
 
