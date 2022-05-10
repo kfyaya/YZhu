@@ -47,14 +47,14 @@ Interactive Dance
 VR/MR
 ====
 
-<img src="https://github.com/kfyaya/YZhu/blob/master//img/dunhuang285.png" width = "1000" />
+<img src="https://github.com/kfyaya/YZhu/blob/master/img/dunhuang285.png" width = "1000" />
 An immersive virtual environment revealing Dunhuang research in MetaVerse.
 
 <img src="https://github.com/kfyaya/YZhu/blob/master/img/pfp.jpg" width = "1000" />
 
 [S. Du, T. Ge, J. Pei, J. Wang, C. Yin and Y. Zhu, "Panoramic Fluid Painting," 2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR), 2019, pp. 904-905](https://youtu.be/upvl0Jtjzso)
 
-<img src="https://github.com/kfyaya/YZhu/blob/masterhttps://github.com/kfyaya/YZhu/blob/master//img/ibl.jpg" width = "1000" />
+<img src="https://github.com/kfyaya/YZhu/blob/master/img/ibl.jpg" width = "1000" />
 
 [Y.Zhu et al., "An Interactive Mixed Reality Platform for Inquiry-Based Education," 2021 IEEE 7th International Conference on Virtual Reality (ICVR), 2021, pp. 324-331](https://ieeexplore.ieee.org/document/9483827)
 
