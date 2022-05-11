@@ -6,10 +6,6 @@ src: url("hwzs.ttf");
 body {
     font-family:"华文中宋";
 }
-h1 {
-    color:orange;
-    text-align:center;
-}
 p {
     font-family:"华文中宋";
     font-size:20px;
