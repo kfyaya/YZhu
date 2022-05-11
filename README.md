@@ -1,11 +1,11 @@
 Yongning Zhu
 ====
 
-Physics-based Animation algorithm developer originally developing the FLIP fluid simulation and multigrid character simulation
+Physics-based Animation algorithm developer, credited for FLIP fluid simulation and multigrid character simulation
 
-Computer graphics and visual effects software engineer in DreamWorks Animation
+Computer graphics and visual effects software engineer in DreamWorks Animation, joined How to Catch your Dragon II, Troll, Rise of the Guardians, and Croods
 
-And interactive media art educator and researcher in Tongji University
+And interactive media art professor at Tongji University
 
 Persistently seeking for procedural solutions utilizing computer graphics and visual effects techniques to build up sustainable visualization solutions in mixed reality solutions for scientific visualization, public media space, interactive performance, and a variaty of digital humanity fields. 
 
@@ -25,6 +25,23 @@ An immersive virtual environment revealing Dunhuang research in MetaVerse.
 <img src="img/pfp.jpg" width = "1000" />
 
 [S. Du, T. Ge, J. Pei, J. Wang, C. Yin and Y. Zhu, "Panoramic Fluid Painting," 2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR), 2019, pp. 904-905](https://youtu.be/upvl0Jtjzso)
+
+Physics-based simulation
+====
+<img src="img/sand.jpg" width = "1000" />
+
+[Y. Zhu and R. Bridson. 2005. Animating sand as a fluid. ACM Trans. Graph. 24, 3 (July 2005), 965–972.](https://dl.acm.org/doi/10.1145/1073204.1073298)
+In this work, we introduced FLIP method which becomes one of the main fluid simulation frameworks in computer animation and visual effects movies. By combining the topological flexibility in particle simulation and spatial uniformity and efficiency in grid solver, fluid simulation is now affordable in real-time scenario. 
+
+<img src="img/mg.jpg" width = "1000" />
+
+[Z.Zhu, E. Sifakis, J. Teran, and A. Brandt. 2010. An efficient multigrid method for the simulation of high-resolution elastic solids. ACM Trans. Graph. 29, 2, Article 16 (March 2010), 18 pages.](https://dl.acm.org/doi/10.1145/1731047.1731054)
+Multigrid methods are wellknown as a fast solver for elasticity problems. However, for near-incompressible materials, required in the simulation of bulging and stretching effects in animation, the problem becomes ill-posed. We introduced a solution with continuation even to the extreme of animation exageration, and demonstrated its applicability to arbitrary articulated characters. 
+
+<img src="img/charskinning.jpg" width = "1000" />
+&copy Walt Disney Animation
+
+[A.McAdams et al. 2011. Efficient elasticity for character skinning with contact and collisions. ACM Trans. Graph. 30, 4, Article 37 (July 2011), 12 pages.](https://dl.acm.org/doi/10.1145/2010324.1964932)
 
 Audio Visualization
 ====
@@ -54,7 +71,7 @@ Manjusaka, 2019.05, MIFA 1862, Shanghai
 Digital Humanity
 ====
 
-<img src="img/shanghailib1.jpg" width = "1000" />
+<img src="img/shanghailib2.jpg" width = "1000" />
 Digital Humanities Platform in Shanghai library keeps nearly a million records about historical characters and events. These characters and events are marked by the researchers with their humanity values, classes, keywords, and relationships with other items. Our visualization builds up a hierarchical structure in the immersive virtual world to reveal the compacity, complexity and availability of this database. 
 
 Interactive Dance
@@ -66,23 +83,6 @@ Interactive Dance
 <img src="img/nomorethanskin2016.jpg" width = "1000" />
 
 [Hope is the Thing with Feathers - II, No More than Skins](https://youtu.be/upvl0Jtjzso), 2016.05, Suzhou Culture and Arts Center, invited by San Francisco International Arts Festival. 
-
-Physics-based simulation
-====
-<img src="img/sand.jpg" width = "1000" />
-
-[Y. Zhu and R. Bridson. 2005. Animating sand as a fluid. ACM Trans. Graph. 24, 3 (July 2005), 965–972.](https://dl.acm.org/doi/10.1145/1073204.1073298)
-In this work, we introduced FLIP method which becomes one of the main fluid simulation frameworks in computer animation and visual effects movies. By combining the topological flexibility in particle simulation and spatial uniformity and efficiency in grid solver, fluid simulation is now affordable in real-time scenario. 
-
-<img src="img/mg.jpg" width = "1000" />
-
-[Z.Zhu, E. Sifakis, J. Teran, and A. Brandt. 2010. An efficient multigrid method for the simulation of high-resolution elastic solids. ACM Trans. Graph. 29, 2, Article 16 (March 2010), 18 pages.](https://dl.acm.org/doi/10.1145/1731047.1731054)
-Multigrid methods are wellknown as a fast solver for elasticity problems. However, for near-incompressible materials, required in the simulation of bulging and stretching effects in animation, the problem becomes ill-posed. We introduced a solution with continuation even to the extreme of animation exageration, and demonstrated its applicability to arbitrary articulated characters. 
-
-<img src="img/charskinning.jpg" width = "1000" />
-(C)Walt Disney Animation
-
-[A.McAdams et al. 2011. Efficient elasticity for character skinning with contact and collisions. ACM Trans. Graph. 30, 4, Article 37 (July 2011), 12 pages.](https://dl.acm.org/doi/10.1145/2010324.1964932)
 
 Student works
 ====
