@@ -98,6 +98,10 @@ Ziyan Tang
 Mingxuan Zhang
 <img src="img/caojun.jpg" width = "1000" />
 Jun Cao
+<img src="img/tree-deer.jpg" width = "1000" />
+Yibo Wang
+<img src="img/cliff-lotus-2.jpg" width = "1000" />
+Yiling He
 
 Course Information
 ====
