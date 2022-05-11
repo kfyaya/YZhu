@@ -1,7 +1,7 @@
 @font-face 
 { 
 font-family: "华文中宋";  
-src: url("font/hwzs.ttf"); 
+src: url("hwzs.ttf"); 
 }
 body {
     background-color:#d0e4fe;
