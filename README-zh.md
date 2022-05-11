@@ -1,4 +1,4 @@
-朱永宁<font face="微软雅黑">我是微软雅黑</font>
+<font face="华文中宋">朱永宁</font>
 ====
 
 Physics-based Animation algorithm developer, credited for the FLIP fluid simulation and multigrid character simulation
