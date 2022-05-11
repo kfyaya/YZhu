@@ -1,11 +1,12 @@
 Yongning Zhu
 ====
 
-Physics-based Animation algorithm developer, credited for FLIP fluid simulation and multigrid character simulation
+Physics-based Animation algorithm developer, credited for the FLIP fluid simulation and multigrid character simulation
 
-Computer graphics and visual effects software engineer in DreamWorks Animation, joined How to Catch your Dragon II, Troll, Rise of the Guardians, and Croods
+Computer graphics and visual effects software engineer in DreamWorks Animation, joined in How to Catch your Dragon II, Troll, Rise of the Guardians, and Croods
 
-And interactive media art professor at Tongji University
+And interactive media art professor at Tongji University, teaching [Unreal Engine](https://www.unrealengine.com), Houdini(https://www.sidefx.com
+), TouchDesigner(https://derivative.ca) and Processing(https://derivative.ca).
 
 Persistently seeking for procedural solutions utilizing computer graphics and visual effects techniques to build up sustainable visualization solutions in mixed reality solutions for scientific visualization, public media space, interactive performance, and a variaty of digital humanity fields. 
 
@@ -31,11 +32,11 @@ Physics-based simulation
 <img src="img/sand.jpg" width = "1000" />
 
 [Y. Zhu and R. Bridson. 2005. Animating sand as a fluid. ACM Trans. Graph. 24, 3 (July 2005), 965–972.](https://dl.acm.org/doi/10.1145/1073204.1073298)
-This work pioneers the FLIP fluid simulation method later used in Maya Bifrost, Houdini FLIP solver, and is later used in movies including Avatar, Battleship, Alice in Wonderland, and games including Mass Effects 3 and now becomes one of the main fluid simulation frameworks. By combining the topological flexibility in particle simulation and spatial uniformity and efficiency in grid solver, fluid simulation is now affordable in real-time scenario. 
+This work pioneers the [FLIP fluid simulation](https://www.fxguide.com/fxfeatured/the-science-of-fluid-sims/?msclkid=df1cb0e3d0f011ec81010e488da621ec) method used in softwares including Maya Bifrost and Houdini FLIP solver, and studio tools including SQUIRT from Double Negative Visual Effects. By combining the topological flexibility in particle simulation and spatial uniformity and efficiency in grid solver, fluid simulation is now affordable in real-time scenario. This technique is also used in movies including Avatar, Battleship, Alice in Wonderland, and games including Mass Effects 3 and now becomes one of the main fluid simulation frameworks. 
 
 <img src="img/mg.jpg" width = "1000" />
 
-[Z.Zhu, E. Sifakis, J. Teran, and A. Brandt. 2010. An efficient multigrid method for the simulation of high-resolution elastic solids. ACM Trans. Graph. 29, 2, Article 16 (March 2010), 18 pages.](https://dl.acm.org/doi/10.1145/1731047.1731054)
+[Y.Zhu, E. Sifakis, J. Teran, and A. Brandt. 2010. An efficient multigrid method for the simulation of high-resolution elastic solids. ACM Trans. Graph. 29, 2, Article 16 (March 2010), 18 pages.](https://dl.acm.org/doi/10.1145/1731047.1731054)
 Multigrid methods are wellknown as a fast solver for elasticity problems. However, for near-incompressible materials, required in the simulation of bulging and stretching effects in animation, the problem becomes ill-posed. We introduced a solution with continuation even to the extreme of animation exageration, and demonstrated its applicability to arbitrary articulated characters. 
 
 <img src="img/charskinning.jpg" width = "1000" />
