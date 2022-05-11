@@ -31,7 +31,7 @@ Physics-based simulation
 <img src="img/sand.jpg" width = "1000" />
 
 [Y. Zhu and R. Bridson. 2005. Animating sand as a fluid. ACM Trans. Graph. 24, 3 (July 2005), 965–972.](https://dl.acm.org/doi/10.1145/1073204.1073298)
-In this work, we introduced FLIP method which becomes one of the main fluid simulation frameworks in computer animation and visual effects movies. By combining the topological flexibility in particle simulation and spatial uniformity and efficiency in grid solver, fluid simulation is now affordable in real-time scenario. 
+This work pioneers the FLIP fluid simulation method later used in Maya Bifrost, Houdini FLIP solver, and is later used in movies including Avatar, Battleship, Alice in Wonderland, and games including Mass Effects 3 and now becomes one of the main fluid simulation frameworks. By combining the topological flexibility in particle simulation and spatial uniformity and efficiency in grid solver, fluid simulation is now affordable in real-time scenario. 
 
 <img src="img/mg.jpg" width = "1000" />
 
