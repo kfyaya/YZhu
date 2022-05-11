@@ -1,4 +1,4 @@
-Yongning Zhu
+朱永宁
 ====
 
 Physics-based Animation algorithm developer, credited for the FLIP fluid simulation and multigrid character simulation
