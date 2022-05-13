@@ -2,33 +2,43 @@
 
 朱永宁
 ====
-物理模拟算法开发，FLIP流体模拟开创者。
-梦工厂几何与视觉效果工程师，参与《驯龙高手II》流体模拟系统，《魔法精灵》毛发系统，《守护者联盟》粒子系统工作，另外IMDb记录参与《疯狂原始人》。
-交互媒体艺术教育者，致力于提供虚拟现实，增强现实和混合现实解决方案
+物理模拟算法开发，[FLIP流体模拟](https://www.fxguide.com/fxfeatured/the-science-of-fluid-sims/)开创者。
+
+梦工厂几何与视觉效果工程师，参与《驯龙高手II》流体模拟系统，《魔法精灵》毛发系统，《守护者联盟》与《疯狂原始人》特效研发。
+
+交互媒体艺术教育者，开设[Unreal Engine](https://www.unrealengine.com), [Houdini](https://www.sidefx.com
+), [TouchDesigner](https://derivative.ca) and [Processing](https://derivative.ca)课程，致力于提供虚拟现实，增强现实和混合现实解决方案
 
 VR/MR/元宇宙
 ====
 
 <img src="img/result.PNG" width = "1000" />
 <img src="img/ibl.jpg" width = "1000" />
+
 虚实融合探究式学习系统开发平台
+
 [Y.Zhu et al., "An Interactive Mixed Reality Platform for Inquiry-Based Education," 2021 IEEE 7th International Conference on Virtual Reality (ICVR), 2021, pp. 324-331](https://ieeexplore.ieee.org/document/9483827)
 
 [G.Ting, W. Jianmin, Z. Yongning and C. Qiuyu, "Research on Interaction Design of Chemical Inquiry Virtual Experiment Based on Augmented Reality Technology," 2021 IEEE 7th International Conference on Virtual Reality (ICVR), 2021, pp. 340-351](https://ieeexplore.ieee.org/document/9483706)
 
 <img src="img/dunhuang285.png" width = "1000" />
-将互联网接入沉浸式虚拟环境，让敦煌研究院科研成果在考古现场浸入式展示。
+
+敦煌研究院科研成果在莫高窟洞窟中的浸入式展示
 
 <img src="img/pfp.jpg" width = "1000" />
 
 [S. Du, T. Ge, J. Pei, J. Wang, C. Yin and Y. Zhu, "Panoramic Fluid Painting," 2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR), 2019, pp. 904-905](https://youtu.be/upvl0Jtjzso)
+
+全景球面上的流体动力学模拟和水墨绘画系统
 
 物理仿真和物理动画
 ====
 <img src="img/sand.jpg" width = "1000" />
 
 [Y. Zhu and R. Bridson. 2005. Animating sand as a fluid. ACM Trans. Graph. 24, 3 (July 2005), 965–972.](https://dl.acm.org/doi/10.1145/1073204.1073298)
-该工作开创了[FLIP](https://www.fxguide.com/fxfeatured/the-science-of-fluid-sims/?msclkid=df1cb0e3d0f011ec81010e488da621ec) 流体模拟，该方法应用于Maya Bifrost，Houdini FLIP以及著名特效工作室Double Negative的SQUIRT系统。结合粒子模拟的灵活性和网格快速解法，推动实时流体仿真的实现。该工作应用于电影《阿凡达》《哈利波特和混血王子》等特效电影和《质量效应3》等游戏。
+
+该工作开创了[FLIP](https://www.fxguide.com/fxfeatured/the-science-of-fluid-sims/?msclkid=df1cb0e3d0f011ec81010e488da621ec) 流体模拟，该方法应用于Maya Bifrost，Houdini FLIP以及著名特效工作室Double Negative的SQUIRT系统。结合粒子模拟的灵活性和网格快速解法，推动实时流体仿真的实现。该工作应用于电影[《阿凡达》](https://www.fxguide.com/fxfeatured/the_tech_behind_the_tools_of_avatar_part_2_naiad/), [《超级战舰》](https://www.fxguide.com/fxfeatured/battleship-tactical-water-and-fluid-sims/),《哈利波特和混血王子》等特效电影和《质量效应3》等游戏。
+
 <img src="img/mg.jpg" width = "1000" />
 
 [Y.Zhu, E. Sifakis, J. Teran, and A. Brandt. 2010. An efficient multigrid method for the simulation of high-resolution elastic solids. ACM Trans. Graph. 29, 2, Article 16 (March 2010), 18 pages.](https://dl.acm.org/doi/10.1145/1731047.1731054)
