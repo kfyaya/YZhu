@@ -1,4 +1,4 @@
-Yongning Zhu <a href="/README-zh.html">zh</a>
+Yongning Zhu <a href="README-zh.html">中文</a>
 ====
 
 Physics-based Animation algorithm developer, credited for the FLIP fluid simulation and multigrid character simulation
@@ -32,7 +32,7 @@ Physics-based simulation
 <img src="img/sand.jpg" width = "1000" />
 
 [Y. Zhu and R. Bridson. 2005. Animating sand as a fluid. ACM Trans. Graph. 24, 3 (July 2005), 965–972.](https://dl.acm.org/doi/10.1145/1073204.1073298)
-This work pioneers the [FLIP fluid simulation](https://www.fxguide.com/fxfeatured/the-science-of-fluid-sims/?msclkid=df1cb0e3d0f011ec81010e488da621ec) method used in softwares including Maya Bifrost and Houdini FLIP solver, and studio tools including SQUIRT from Double Negative Visual Effects. By combining the topological flexibility in particle simulation and spatial uniformity and efficiency in grid solver, fluid simulation is now affordable in real-time scenario. This technique is also used in movies including Avatar, Battleship, Alice in Wonderland, and games including Mass Effects 3 and now becomes one of the main fluid simulation frameworks. 
+This work pioneers the [FLIP fluid simulation](https://www.fxguide.com/fxfeatured/the-science-of-fluid-sims/) method used in softwares including Maya Bifrost and Houdini FLIP solver, and studio tools including SQUIRT from Double Negative Visual Effects. By combining the topological flexibility in particle simulation and spatial uniformity and efficiency in grid solver, fluid simulation is now affordable in real-time scenario. This technique is also used in movies including [Avatar](https://www.fxguide.com/fxfeatured/the_tech_behind_the_tools_of_avatar_part_2_naiad/), [Battleship](https://www.fxguide.com/fxfeatured/battleship-tactical-water-and-fluid-sims/), Alice in Wonderland, and games including Mass Effects 3 and now becomes one of the main fluid simulation frameworks. 
 
 <img src="img/mg.jpg" width = "1000" />
 
@@ -40,7 +40,7 @@ This work pioneers the [FLIP fluid simulation](https://www.fxguide.com/fxfeature
 Multigrid methods are wellknown as a fast solver for elasticity problems. However, for near-incompressible materials, required in the simulation of bulging and stretching effects in animation, the problem becomes ill-posed. We introduced a solution with continuation even to the extreme of animation exageration, and demonstrated its applicability to arbitrary articulated characters. 
 
 <img src="img/charskinning.jpg" width = "1000" />
-&copy Walt Disney Animation
+&copy Disney Enterprise
 
 [A.McAdams et al. 2011. Efficient elasticity for character skinning with contact and collisions. ACM Trans. Graph. 30, 4, Article 37 (July 2011), 12 pages.](https://dl.acm.org/doi/10.1145/2010324.1964932)
 
