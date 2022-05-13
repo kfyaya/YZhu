@@ -2,70 +2,62 @@
 
 朱永宁
 ====
+物理模拟算法开发，FLIP流体模拟开创者。
+梦工厂几何与视觉效果工程师，参与《驯龙高手II》流体模拟系统，《魔法精灵》毛发系统，《守护者联盟》粒子系统工作，另外IMDb记录参与《疯狂原始人》。
+交互媒体艺术教育者，致力于提供虚拟现实，增强现实和混合现实解决方案
 
-Physics-based Animation algorithm developer, credited for the FLIP fluid simulation and multigrid character simulation
-
-Computer graphics and visual effects software engineer in DreamWorks Animation, joined in How to Catch your Dragon II, Troll, Rise of the Guardians, and Croods
-
-And interactive media art professor at Tongji University, teaching [Unreal Engine](https://www.unrealengine.com), Houdini(https://www.sidefx.com
-), TouchDesigner(https://derivative.ca) and Processing(https://derivative.ca).
-
-Persistently seeking for procedural solutions utilizing computer graphics and visual effects techniques to build up sustainable visualization solutions in mixed reality solutions for scientific visualization, public media space, interactive performance, and a variaty of digital humanity fields. 
-
-VR/MR/MetaVerse
+VR/MR/元宇宙
 ====
 
 <img src="img/result.PNG" width = "1000" />
 <img src="img/ibl.jpg" width = "1000" />
-
+虚实融合探究式学习系统开发平台
 [Y.Zhu et al., "An Interactive Mixed Reality Platform for Inquiry-Based Education," 2021 IEEE 7th International Conference on Virtual Reality (ICVR), 2021, pp. 324-331](https://ieeexplore.ieee.org/document/9483827)
 
 [G.Ting, W. Jianmin, Z. Yongning and C. Qiuyu, "Research on Interaction Design of Chemical Inquiry Virtual Experiment Based on Augmented Reality Technology," 2021 IEEE 7th International Conference on Virtual Reality (ICVR), 2021, pp. 340-351](https://ieeexplore.ieee.org/document/9483706)
 
 <img src="img/dunhuang285.png" width = "1000" />
-An immersive virtual environment revealing Dunhuang research in MetaVerse.
+将互联网接入沉浸式虚拟环境，让敦煌研究院科研成果在考古现场浸入式展示。
 
 <img src="img/pfp.jpg" width = "1000" />
 
 [S. Du, T. Ge, J. Pei, J. Wang, C. Yin and Y. Zhu, "Panoramic Fluid Painting," 2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR), 2019, pp. 904-905](https://youtu.be/upvl0Jtjzso)
 
-Physics-based simulation
+物理仿真和物理动画
 ====
 <img src="img/sand.jpg" width = "1000" />
 
 [Y. Zhu and R. Bridson. 2005. Animating sand as a fluid. ACM Trans. Graph. 24, 3 (July 2005), 965–972.](https://dl.acm.org/doi/10.1145/1073204.1073298)
-This work pioneers the [FLIP fluid simulation](https://www.fxguide.com/fxfeatured/the-science-of-fluid-sims/?msclkid=df1cb0e3d0f011ec81010e488da621ec) method used in softwares including Maya Bifrost and Houdini FLIP solver, and studio tools including SQUIRT from Double Negative Visual Effects. By combining the topological flexibility in particle simulation and spatial uniformity and efficiency in grid solver, fluid simulation is now affordable in real-time scenario. This technique is also used in movies including Avatar, Battleship, Alice in Wonderland, and games including Mass Effects 3 and now becomes one of the main fluid simulation frameworks. 
-
+该工作开创了[FLIP](https://www.fxguide.com/fxfeatured/the-science-of-fluid-sims/?msclkid=df1cb0e3d0f011ec81010e488da621ec) 流体模拟，该方法应用于Maya Bifrost，Houdini FLIP以及著名特效工作室Double Negative的SQUIRT系统。结合粒子模拟的灵活性和网格快速解法，推动实时流体仿真的实现。该工作应用于电影《阿凡达》《哈利波特和混血王子》等特效电影和《质量效应3》等游戏。
 <img src="img/mg.jpg" width = "1000" />
 
 [Y.Zhu, E. Sifakis, J. Teran, and A. Brandt. 2010. An efficient multigrid method for the simulation of high-resolution elastic solids. ACM Trans. Graph. 29, 2, Article 16 (March 2010), 18 pages.](https://dl.acm.org/doi/10.1145/1731047.1731054)
-Multigrid methods are wellknown as a fast solver for elasticity problems. However, for near-incompressible materials, required in the simulation of bulging and stretching effects in animation, the problem becomes ill-posed. We introduced a solution with continuation even to the extreme of animation exageration, and demonstrated its applicability to arbitrary articulated characters. 
 
 <img src="img/charskinning.jpg" width = "1000" />
-&copy Walt Disney Animation
+&copy; Disney Enterprise Inc.
 
 [A.McAdams et al. 2011. Efficient elasticity for character skinning with contact and collisions. ACM Trans. Graph. 30, 4, Article 37 (July 2011), 12 pages.](https://dl.acm.org/doi/10.1145/2010324.1964932)
 
-Audio Visualization
+精细动画人物的肌肉模拟耗时巨大，动画制作中需要实现具有特定艺术设计要求的夸张形变的拉伸与挤压。多重网格方法在均匀网格和常规Neo-Hookean材质弹性形变方程方面提出了快速方法。针对拉伸压缩(Squat and stretch)中收缩和挤出现象所需的近似不可压缩材质导致的系统病态问题提出了解决方法，实现了接近理论结果的一致性的收敛速率。人物动画中模型碰撞同时得到自动结算，节省了大量人力资源。
+
+音画交互
 ====
 
 <img src="img/springriver.jpg" width = "1000" />
 
-Dialogue 2.0, 2021, Tongji University
+对话2.0, 2021, 同济大学
 
 <img src="img/yellowriver.jpg" width = "1000" />
 
-Dialogue 2.0, 2021 (Coming soon....)
+对话2.0, 2021, 同济大学(Coming soon......)
 
-Water color pouring，silk embroidery, and abstract geometry, depict the impressions of the holy mother river. 
-In the misty moonlight, by the colorful flowers, with shimmering ripples, appears the dreamy spring river.
-
-Historical epic and traditional rhythm, music performance and immersive new media art, generative algorithm and artistic design
-join to present our new media art Concert: Dialogue 2.0
+水彩泼成的黄河，锦心绣成的黄河，精诚拱卫的黄河，哪一个是你心中的黄河？
+水深云际的春江，花影层叠的春江，金波闪烁的春江，谁才是你梦里的春江？
+算法生成与艺术设计，红色经典与江南软哝，音乐表演与沉浸式新媒体艺术碰撞出怎样的火花？
+对话2.0——古典琴韵与红色经典
 
 <img src="img/shanghaispring2019.jpg" width = "1000" />
-
-[Dialogue](https://mp.weixin.qq.com/s/vcA09qC7PdqaqlnhkXyuGQ), Shanghai Spring Music Festival, 2021
+[对话1.0](https://mp.weixin.qq.com/s/vcA09qC7PdqaqlnhkXyuGQ), 上海之春国际音乐节, 2020
 
 <img src="img/75.png" width = "1000" />
 
@@ -75,22 +67,24 @@ Digital Humanity
 ====
 
 <img src="img/shanghailib2.jpg" width = "1000" />
-Digital Humanities Platform in Shanghai library keeps nearly a million records about historical characters and events. These characters and events are marked by the researchers with their humanity values, classes, keywords, and relationships with other items. Our visualization builds up a hierarchical structure in the immersive virtual world to reveal the compacity, complexity and availability of this database. 
+上海图书馆历史人文大数据平台整理记录了上百万条历史人物，事件信息，并通过人文调查科学研究对它们的内容，属性，关系进行信息标定。我们在沉浸式虚拟空间对数据进行挖掘和可视化重现，展示数据库的容量内涵，复杂性和可用性。
 
-Interactive Dance
+交互舞蹈
 ====
 <img src="img/rehearsal1.mp4_20170510_115102.394.jpg" width = "1000" />
 
-[Yin and Yang](https://youtu.be/upvl0Jtjzso), 2016.03, Interactive dance performance, Tongji University
+[两仪万象](https://youtu.be/upvl0Jtjzso), 2016.03, 同济大学德国音乐周
 
 <img src="img/nomorethanskin2016.jpg" width = "1000" />
 
-[Hope is the Thing with Feathers - II, No More than Skins](https://youtu.be/upvl0Jtjzso), 2016.05, Suzhou Culture and Arts Center, invited by San Francisco International Arts Festival. 
+[《希望是长者羽毛的——皮囊》](https://youtu.be/upvl0Jtjzso), 2016.05, 苏州文化艺术中心，多媒体设计，2017年旧金山国际艺术节邀约作品
 
-Student works
+教学
 ====
-I have been teaching Interactive Programming and New Media Art in Tongji University mainly with Houdini, TouchDesigner and Unreal Engine. Here is a collection of the student works:
-* [2018 student works in Shanghai Spring International Music Festival](https://mp.weixin.qq.com/s/vcA09qC7PdqaqlnhkXyuGQ)
+同济大学交互程序设计与新媒体互动影像艺术课程作品，所用软件包括 [Unreal Engine](https://www.unrealengine.com), [Houdini](https://www.sidefx.com
+), [TouchDesigner](https://derivative.ca) and [Processing](https://processing.org).
+
+* [2018 暑期工坊](https://mp.weixin.qq.com/s/vcA09qC7PdqaqlnhkXyuGQ)
 * [2019 student works](https://www.manamana.net/video/detail?id=58733#!en).
 * [2020 student works](https://mp.weixin.qq.com/s/XJS4VDbDi-yE0CIwLGko3g)
 <img src="img/chenyining.jpg" width = "1000" />
@@ -106,7 +100,7 @@ Yibo Wang
 <img src="img/cliff-lotus-2.JPG" width = "1000" />
 Yiling He
 
-Course Information
+课程信息
 ====
 https://github.com/kfyaya/TouchDesigner-lecture
 
