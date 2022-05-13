@@ -1,12 +1,12 @@
 Yongning Zhu <a href="README-zh.html">中文</a>
 ====
 
-Physics-based Animation algorithm developer, credited for the FLIP fluid simulation and multigrid character simulation
+Physics-based Animation algorithm developer, credited for the [FLIP fluid simulation](https://www.fxguide.com/fxfeatured/the-science-of-fluid-sims/) and [multigrid character simulation](https://www.youtube.com/watch?v=0WfFCqKDLB0)
 
 Computer graphics and visual effects software engineer in DreamWorks Animation, joined in How to Catch your Dragon II, Troll, Rise of the Guardians, and Croods
 
-And interactive media art professor at Tongji University, teaching [Unreal Engine](https://www.unrealengine.com), Houdini(https://www.sidefx.com
-), TouchDesigner(https://derivative.ca) and Processing(https://derivative.ca).
+And interactive media art professor at Tongji University, teaching [Unreal Engine](https://www.unrealengine.com), [Houdini](https://www.sidefx.com
+), [TouchDesigner](https://derivative.ca) and [Processing](https://derivative.ca).
 
 Persistently seeking for procedural solutions utilizing computer graphics and visual effects techniques to build up sustainable visualization solutions in mixed reality solutions for scientific visualization, public media space, interactive performance, and a variaty of digital humanity fields. 
 
@@ -32,15 +32,17 @@ Physics-based simulation
 <img src="img/sand.jpg" width = "1000" />
 
 [Y. Zhu and R. Bridson. 2005. Animating sand as a fluid. ACM Trans. Graph. 24, 3 (July 2005), 965–972.](https://dl.acm.org/doi/10.1145/1073204.1073298)
+
 This work pioneers the [FLIP fluid simulation](https://www.fxguide.com/fxfeatured/the-science-of-fluid-sims/) method used in softwares including Maya Bifrost and Houdini FLIP solver, and studio tools including SQUIRT from Double Negative Visual Effects. By combining the topological flexibility in particle simulation and spatial uniformity and efficiency in grid solver, fluid simulation is now affordable in real-time scenario. This technique is also used in movies including [Avatar](https://www.fxguide.com/fxfeatured/the_tech_behind_the_tools_of_avatar_part_2_naiad/), [Battleship](https://www.fxguide.com/fxfeatured/battleship-tactical-water-and-fluid-sims/), Alice in Wonderland, and games including Mass Effects 3 and now becomes one of the main fluid simulation frameworks. 
 
 <img src="img/mg.jpg" width = "1000" />
 
 [Y.Zhu, E. Sifakis, J. Teran, and A. Brandt. 2010. An efficient multigrid method for the simulation of high-resolution elastic solids. ACM Trans. Graph. 29, 2, Article 16 (March 2010), 18 pages.](https://dl.acm.org/doi/10.1145/1731047.1731054)
+
 Multigrid methods are wellknown as a fast solver for elasticity problems. However, for near-incompressible materials, required in the simulation of bulging and stretching effects in animation, the problem becomes ill-posed. We introduced a solution with continuation even to the extreme of animation exageration, and demonstrated its applicability to arbitrary articulated characters. 
 
 <img src="img/charskinning.jpg" width = "1000" />
-&copy Disney Enterprise
+&copy; Disney Enterprise
 
 [A.McAdams et al. 2011. Efficient elasticity for character skinning with contact and collisions. ACM Trans. Graph. 30, 4, Article 37 (July 2011), 12 pages.](https://dl.acm.org/doi/10.1145/2010324.1964932)
 
