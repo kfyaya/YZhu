@@ -22,7 +22,7 @@ VR/MR/MetaVerse
 [G.Ting, W. Jianmin, Z. Yongning and C. Qiuyu, "Research on Interaction Design of Chemical Inquiry Virtual Experiment Based on Augmented Reality Technology," 2021 IEEE 7th International Conference on Virtual Reality (ICVR), 2021, pp. 340-351](https://ieeexplore.ieee.org/document/9483706)
 
 <img src="img/dunhuang285.png" width = "1000" />
-An immersive virtual environment revealing Dunhuang research in MetaVerse.
+Revealing [Dunhuang research](http://www.dha.ac.cn/) embedded in the immersive virtual replica of Mogao Grottoes.
 
 <img src="img/pfp.jpg" width = "1000" />
 
