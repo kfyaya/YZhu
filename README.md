@@ -1,4 +1,4 @@
-Yongning Zhu <a href="README-zh.html">中文</a>
+Yongning Zhu <a href="README-zh.html" size = 5>中文</a>
 ====
 
 Physics-based Animation algorithm developer, credited for the [FLIP fluid simulation](https://www.fxguide.com/fxfeatured/the-science-of-fluid-sims/) and [multigrid character simulation](https://www.youtube.com/watch?v=0WfFCqKDLB0)
