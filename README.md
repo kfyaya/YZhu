@@ -103,9 +103,9 @@ Mingxuan Zhang
 <img src="img/caojun.jpg" width = "1000" />
 Jun Cao
 <img src="img/tree-deer.jpg" width = "1000" />
-Yibo Wang
+Cliff with lotus - generated from ridgeline curves - Yibo Wang 
 <img src="img/cliff-lotus-2.JPG" width = "1000" />
-Yiling He
+Tree or deer? - Yiling He
 
 Course Information
 ====
