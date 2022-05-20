@@ -26,7 +26,8 @@ Revealing [Dunhuang research](http://www.dha.ac.cn/) embedded in the immersive v
 
 <img src="img/pfp.jpg" width = "1000" />
 
-[S. Du, T. Ge, J. Pei, J. Wang, C. Yin and Y. Zhu, "Panoramic Fluid Painting," 2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR), 2019, pp. 904-905](https://youtu.be/upvl0Jtjzso)
+[S. Du, T. Ge, J. Pei, J. Wang, C. Yin and Y. Zhu, "Panoramic Fluid Painting," 2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR), 2019, pp. 904-905](https://ieeexplore.ieee.org/document/8798200/) 
+By solving Navier-Stokes equations on the panoramic sphere, you can directly paint the VR background with dynamic fluid painting effects and a variety of features including watercolor and oil painting.
 
 Physics-based simulation
 ====
