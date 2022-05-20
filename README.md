@@ -18,6 +18,7 @@ VR/MR/MetaVerse
 <img src="img/ibl.jpg" width = "1000" />
 
 [Y.Zhu et al., "An Interactive Mixed Reality Platform for Inquiry-Based Education," 2021 IEEE 7th International Conference on Virtual Reality (ICVR), 2021, pp. 324-331](https://ieeexplore.ieee.org/document/9483827)
+Inquiry-based teaching is a methodology promoting the students‘ active learning, learning interest and performance. The students are immersed in a personalized virtual learning environment surrounded by knowledge cards arranged by the knowledge management system. 
 
 [G.Ting, W. Jianmin, Z. Yongning and C. Qiuyu, "Research on Interaction Design of Chemical Inquiry Virtual Experiment Based on Augmented Reality Technology," 2021 IEEE 7th International Conference on Virtual Reality (ICVR), 2021, pp. 340-351](https://ieeexplore.ieee.org/document/9483706)
 
