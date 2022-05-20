@@ -94,17 +94,24 @@ I have been teaching Interactive Programming and New Media Art in Tongji Univers
 * [2018 student works in Shanghai Spring International Music Festival](https://mp.weixin.qq.com/s/vcA09qC7PdqaqlnhkXyuGQ)
 * [2019 student works](https://www.manamana.net/video/detail?id=58733#!en).
 * [2020 student works](https://mp.weixin.qq.com/s/XJS4VDbDi-yE0CIwLGko3g)
+
 <img src="img/chenyining.jpg" width = "1000" />
 Yining Chen
+
 <img src="img/tangziyan.jpg" width = "1000" />
 Ziyan Tang
+
 <img src="img/zhangmingxuan.jpg" width = "1000" />
 Mingxuan Zhang
+
 <img src="img/caojun.jpg" width = "1000" />
 Jun Cao
-<img src="img/tree-deer.jpg" width = "1000" />
-Cliff with lotus - generated from ridgeline curves - Yibo Wang 
+
+<img src="img/1.JPG" width = "1000" />
 <img src="img/cliff-lotus-2.JPG" width = "1000" />
+Cliff with lotus - generated from ridgeline curves - Yibo Wang 
+
+<img src="img/tree-deer.jpg" width = "1000" />
 Tree or deer? - Yiling He
 
 Course Information
