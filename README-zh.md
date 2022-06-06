@@ -2,6 +2,9 @@
 
 朱永宁
 ====
+
+<small><a href="http://kfyaya.github.io/YZhu">En</a></small>
+
 物理模拟算法开发，[FLIP流体模拟](https://www.fxguide.com/fxfeatured/the-science-of-fluid-sims/)开创者。
 
 梦工厂几何与视觉效果工程师，参与《驯龙高手II》流体模拟系统，《魔法精灵》毛发系统，《守护者联盟》与《疯狂原始人》特效研发。
