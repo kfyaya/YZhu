@@ -54,7 +54,7 @@ Audio Visualization
 
 <img src="img/springriver.jpg" width = "1000" />
 
-Dialogue 2.0, 2021, Tongji University
+[Dialogue 2.0, 2021](https://mp.weixin.qq.com/s/80_oqWyzYdLh3vLucJFi9A), Tongji University
 
 <img src="img/yellowriver.jpg" width = "1000" />
 
@@ -97,24 +97,27 @@ I have been teaching Interactive Programming and New Media Art in Tongji Univers
 * [2019 student works](https://www.manamana.net/video/detail?id=58733#!en).
 * [2020 student works](https://mp.weixin.qq.com/s/XJS4VDbDi-yE0CIwLGko3g)
 
+[爱在人间Ode to Love](https://mp.weixin.qq.com/s/2Xwh0ZZTXTa1QkkMOsRa7g)
+谢佳璇Jiaxuan Xie
+
 <img src="img/chenyining.jpg" width = "1000" />
-Yining Chen
+陈奕宁Yining Chen
 
 <img src="img/tangziyan.jpg" width = "1000" />
-Ziyan Tang
+唐子燕Ziyan Tang
 
 <img src="img/zhangmingxuan.jpg" width = "1000" />
-Mingxuan Zhang
+张明轩Mingxuan Zhang
 
 <img src="img/caojun.jpg" width = "1000" />
-Jun Cao
+曹峻Jun Cao
 
 <img src="img/1.JPG" width = "1000" />
 <img src="img/cliff-lotus-2.JPG" width = "1000" />
-Cliff with lotus - generated from ridgeline curves - Yibo Wang 
+Cliff with lotus - generated from ridgeline curves - 王奕博Yibo Wang 
 
 <img src="img/tree-deer.jpg" width = "1000" />
-Tree or deer? - Yiling He
+Tree or deer? - 何奕凌Yiling He
 
 Course Information
 ====
