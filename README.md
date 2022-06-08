@@ -49,6 +49,9 @@ Multigrid methods are wellknown as a fast solver for elasticity problems. Howeve
 
 [A.McAdams et al. 2011. Efficient elasticity for character skinning with contact and collisions. ACM Trans. Graph. 30, 4, Article 37 (July 2011), 12 pages.](https://dl.acm.org/doi/10.1145/2010324.1964932)
 
+<img src="img/civil-OUT2.2.jpg" width = "1000" />
+Destruction fragments are missing in the Finite Element simulation of earthquake destruction due to the element fracture and ill-conditioning. Rigid body dynamics are used to reconstruct and continue the simulation of broken fractures and recover the debris extention. 
+
 Audio Visualization
 ====
 
