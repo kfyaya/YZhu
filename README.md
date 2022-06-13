@@ -56,12 +56,9 @@ Audio Visualization
 ====
 
 <img src="img/springriver.jpg" width = "1000" />
-
-[Dialogue 2.0, 2021](https://mp.weixin.qq.com/s/80_oqWyzYdLh3vLucJFi9A), Tongji University
-
 <img src="img/yellowriver.jpg" width = "1000" />
 
-Dialogue 2.0, 2021 (Coming soon....)
+[Dialogue 2.0, 2021](https://m.bilibili.com/video/BV1aU4y1R7nC), [Preview](https://mp.weixin.qq.com/s/80_oqWyzYdLh3vLucJFi9A), Tongji
 
 Water color pouring，silk embroidery, and abstract geometry, depict the impressions of the holy mother river. 
 In the misty moonlight, by the colorful flowers, with shimmering ripples, appears the dreamy spring river.
