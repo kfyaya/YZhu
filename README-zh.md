@@ -12,6 +12,9 @@
 交互媒体艺术教育者，开设[Unreal Engine](https://www.unrealengine.com), [Houdini](https://www.sidefx.com
 ), [TouchDesigner](https://derivative.ca) and [Processing](https://derivative.ca)课程，致力于提供虚拟现实，增强现实和混合现实解决方案
 
+[澎湃新闻对交互新媒体艺术教学与交互音乐会的报道](https://m.thepaper.cn/newsDetail_forward_18644869?from=HOTQRCODE&hotContIds=)
+<img src="img/thepaperdialogue2.0.jpg" width = "600" />
+
 VR/MR/元宇宙
 ====
 
