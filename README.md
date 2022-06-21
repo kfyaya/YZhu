@@ -11,6 +11,8 @@ And interactive media art professor at Tongji University, teaching [Unreal Engin
 
 Persistently seeking for procedural solutions utilizing computer graphics and visual effects techniques to build up sustainable visualization solutions in mixed reality solutions for scientific visualization, public media space, interactive performance, and a variaty of digital humanity fields. 
 
+<img src="img/thepaperdialogue2.0.jpg" width = "600" />
+
 VR/MR/MetaVerse
 ====
 
