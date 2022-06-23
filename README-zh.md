@@ -12,7 +12,7 @@
 交互媒体艺术教育者，开设[Unreal Engine](https://www.unrealengine.com), [Houdini](https://www.sidefx.com
 ), [TouchDesigner](https://derivative.ca) and [Processing](https://derivative.ca)课程，致力于提供虚拟现实，增强现实和混合现实解决方案
 
-[澎湃新闻对交互新媒体艺术教学与交互音乐会的报道](https://m.thepaper.cn/newsDetail_forward_18644869?from=HOTQRCODE&hotContIds=)
+[澎湃新闻对交互新媒体艺术教学与交互音乐会的报道](https://www.thepaper.cn/newsDetail_forward_18644869)
 
 <img src="img/thepaperdialogue2.0.jpg" width = "600" />
 
@@ -63,13 +63,14 @@ VR/MR/元宇宙
 音画交互
 ====
 
-<img src="img/springriver.jpg" width = "1000" />
+<img src="img/thepaperdialogue2.0.jpg" width = "600" />
 
-对话2.0, 2021, 同济大学
+<img src="img/springriver.jpg" width = "1000" />
 
 <img src="img/yellowriver.jpg" width = "1000" />
 
 对话2.0, 2021, 同济大学(Coming soon......)
+[澎湃新闻对交互新媒体艺术教学与交互音乐会的报道](https://www.thepaper.cn/newsDetail_forward_18644869)
 
 彩墨泼成的黄河，锦心绣成的黄河，精诚拱卫的黄河，哪一个是你心中的黄河？
 水深云际的春江，花影层叠的春江，金波闪烁的春江，谁才是你梦里的春江？
