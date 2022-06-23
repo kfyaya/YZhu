@@ -2,7 +2,7 @@ Yongning Zhu
 ====
 <small><a href="README-zh.html">中文</a></small>
 
-Physics-based Animation algorithm developer, credited for the [FLIP fluid simulation](https://www.fxguide.com/fxfeatured/the-science-of-fluid-sims/) and [multigrid character simulation](https://www.youtube.com/watch?v=0WfFCqKDLB0)
+Physics-based Animation algorithm developer, credited for the FLIP fluid simulation ( [fxguide] (https://www.fxguide.com/fxfeatured/the-science-of-fluid-sims/) )and [multigrid character simulation](https://www.youtube.com/watch?v=0WfFCqKDLB0)
 
 Computer graphics and visual effects software engineer in DreamWorks Animation, joined in How to Catch your Dragon II, Troll, Rise of the Guardians, and Croods
 
@@ -11,6 +11,7 @@ And interactive media art professor at Tongji University, teaching [Unreal Engin
 
 Persistently seeking for procedural solutions utilizing computer graphics and visual effects techniques to build up sustainable visualization solutions in mixed reality solutions for scientific visualization, public media space, interactive performance, and a variaty of digital humanity fields. 
 
+<img src="img/6.jpg" width = "500" />
 
 VR/MR/MetaVerse
 ====
@@ -56,10 +57,13 @@ Destruction fragments are missing in the Finite Element simulation of earthquake
 Audio Visualization
 ====
 
+<img src="img/thepaperdialogue2.0.jpg" width = "600" />
+
 <img src="img/springriver.jpg" width = "1000" />
+
 <img src="img/yellowriver.jpg" width = "1000" />
 
-[Dialogue 2.0, 2021](https://m.bilibili.com/video/BV1aU4y1R7nC), [Preview](https://mp.weixin.qq.com/s/80_oqWyzYdLh3vLucJFi9A), Tongji
+[Dialogue 2.0, 2021](https://m.bilibili.com/video/BV1aU4y1R7nC), [The Paper news report](https://www.thepaper.cn/newsDetail_forward_18644869), [Preview](https://mp.weixin.qq.com/s/80_oqWyzYdLh3vLucJFi9A), Tongji
 
 Water color pouring，silk embroidery, and abstract geometry, depict the impressions of the holy mother river. 
 In the misty moonlight, by the colorful flowers, with shimmering ripples, appears the dreamy spring river.
