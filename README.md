@@ -12,6 +12,7 @@ And interactive media art professor at Tongji University, teaching [Unreal Engin
 Persistently seeking for procedural solutions utilizing computer graphics and visual effects techniques to build up sustainable visualization solutions in mixed reality solutions for scientific visualization, public media space, interactive performance, and a variaty of digital humanity fields. 
 
 <img src="img/6.jpg" width = "500" />
+[Interactive new media art concert Dialogue](https://youtu.be/xkRxltHY4xw)
 
 VR/MR/MetaVerse
 ====
@@ -49,7 +50,7 @@ Multigrid methods are wellknown as a fast solver for elasticity problems. Howeve
 <img src="img/charskinning.jpg" width = "1000" />
 &copy; Disney Enterprise
 
-[A.McAdams et al. 2011. Efficient elasticity for character skinning with contact and collisions. ACM Trans. Graph. 30, 4, Article 37 (July 2011), 12 pages.](https://dl.acm.org/doi/10.1145/2010324.1964932)
+[A.McAdams et al. 2011. Efficient elasticity for character skinning with contact and collisions. ACM Trans. Graph. 30, 4, Article 37 (July 2011), 12 pages.](https://dl.acm.org/doi/10.1145/2010324.1964932) [Youtube](https://www.youtube.com/watch?v=KDvfFzFIruQ)
 
 <img src="img/civil-OUT2.2.jpg" width = "1000" />
 Destruction fragments are missing in the Finite Element simulation of earthquake destruction due to the element fracture and ill-conditioning. Rigid body dynamics are used to reconstruct and continue the simulation of broken fractures and recover the debris extention. 
