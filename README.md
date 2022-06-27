@@ -12,6 +12,7 @@ And interactive media art professor at Tongji University, teaching [Unreal Engin
 Persistently seeking for procedural solutions utilizing computer graphics and visual effects techniques to build up sustainable visualization solutions in mixed reality solutions for scientific visualization, public media space, interactive performance, and a variaty of digital humanity fields. 
 
 <img src="img/6.jpg" width = "500" />
+
 [Interactive new media art concert Dialogue, 2021](https://youtu.be/xkRxltHY4xw)
 
 VR/MR/MetaVerse
@@ -26,7 +27,7 @@ Inquiry-based teaching is a methodology promoting the students‘ active learnin
 [G.Ting, W. Jianmin, Z. Yongning and C. Qiuyu, "Research on Interaction Design of Chemical Inquiry Virtual Experiment Based on Augmented Reality Technology," 2021 IEEE 7th International Conference on Virtual Reality (ICVR), 2021, pp. 340-351](https://ieeexplore.ieee.org/document/9483706)
 
 <img src="img/dunhuang285.png" width = "1000" />
-Enormous research and documentary were maintained in the [Dunhuang Academy Resource Database](http://dh.dha.ac.cn/). Explore these valuable archives shining in the immersive virtual Mogao Grottoes and enjoy a journey back to Tang Dynasty,  the golden age of Buddhism. 
+Enormous research and documentary were maintained in the [Dunhuang Academy Resource Database](http://dh.dha.ac.cn/). Explore these valuable archives shining in the immersive virtual Mogao Grottoes and enjoy a journey back to Tang Dynasty,  the golden age of Buddhism. Coming soon......
 
 <img src="img/pfp.jpg" width = "1000" />
 
