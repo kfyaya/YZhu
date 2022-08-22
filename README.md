@@ -84,7 +84,7 @@ Manjusaka, 2019.05, MIFA 1862, Shanghai
 Digital Humanity
 ====
 
-<img src="img/shanghailib2.jpg" width = "1000" />
+<img src="img/shanghailib2.jpg" width = "600" />
 Digital Humanities Platform in Shanghai library keeps nearly a million records about historical characters and events. These characters and events are marked by the researchers with their humanity values, classes, keywords, and relationships with other items. Our visualization builds up a hierarchical structure in the immersive virtual world to reveal the compacity, complexity and availability of this database. 
 
 Interactive Dance
