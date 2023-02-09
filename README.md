@@ -87,6 +87,8 @@ Digital Humanity
 <img src="img/shanghailib2.jpg" width = "600" />
 Digital Humanities Platform in Shanghai library keeps nearly a million records about historical characters and events. These characters and events are marked by the researchers with their humanity values, classes, keywords, and relationships with other items. Our visualization builds up a hierarchical structure in the immersive virtual world to reveal the compacity, complexity and availability of this database. 
 
+Alibaba APSARA 2022, Computational Design Day [ppt](img/22_Alibaba_Computational_Design_YZhu.pdf)
+
 Interactive Dance
 ====
 <img src="img/rehearsal1.mp4_20170510_115102.394.jpg" width = "1000" />
