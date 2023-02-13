@@ -14,6 +14,9 @@ Persistently seeking for procedural solutions utilizing computer graphics and vi
 <img src="img/6.jpg" width = "500" />
 
 [Interactive new media art concert Dialogue, 2021](https://youtu.be/xkRxltHY4xw)
+
+<img src="img/shanghailib3.jpg" width = "600" />
+
 [Shanghai Memory -- A cultural chronology generative and interactive installation, Shanghai Library, 2022](https://m.manamana.net/video/detail/2103510?open=true#!zh)
 
 Digital Humanity
