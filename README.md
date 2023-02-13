@@ -14,6 +14,16 @@ Persistently seeking for procedural solutions utilizing computer graphics and vi
 <img src="img/6.jpg" width = "500" />
 
 [Interactive new media art concert Dialogue, 2021](https://youtu.be/xkRxltHY4xw)
+[Shanghai Memory -- A cultural chronology generative and interactive installation, Shanghai Library, 2022](https://m.manamana.net/video/detail/2103510?open=true#!zh)
+
+Digital Humanity
+====
+
+<img src="img/shanghailib3.jpg" width = "600" />
+Digital Humanities Platform in Shanghai library keeps nearly a million records about historical characters and events. These characters and events are marked by the researchers with their humanity values, classes, keywords, and relationships with other items. Our visualization builds up a hierarchical structure in the immersive virtual world to reveal the compacity, complexity and availability of this database. 
+
+Alibaba APSARA 2022, Computational Design Day [ppt](img/22_Alibaba_Computational_Design_YZhu.pdf)
+[Shanghai Memory -- A cultural chronology generative and interactive installation, Shanghai Library, 2022](https://m.manamana.net/video/detail/2103510?open=true#!zh)
 
 VR/MR/MetaVerse
 ====
@@ -81,13 +91,6 @@ join to present our new media art Concert: Dialogue 2.0
 
 Manjusaka, 2019.05, MIFA 1862, Shanghai
 
-Digital Humanity
-====
-
-<img src="img/shanghailib2.jpg" width = "600" />
-Digital Humanities Platform in Shanghai library keeps nearly a million records about historical characters and events. These characters and events are marked by the researchers with their humanity values, classes, keywords, and relationships with other items. Our visualization builds up a hierarchical structure in the immersive virtual world to reveal the compacity, complexity and availability of this database. 
-
-Alibaba APSARA 2022, Computational Design Day [ppt](img/22_Alibaba_Computational_Design_YZhu.pdf)
 
 Interactive Dance
 ====
