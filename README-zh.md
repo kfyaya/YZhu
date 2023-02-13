@@ -28,6 +28,7 @@
 云栖大会计算设计日, 2022 [ppt](img/22_Alibaba_Computational_Design_YZhu.pdf)
 
 上海之源-文化年谱展项，上海图书馆, 2022 [video](https://m.manamana.net/video/detail/2103510?open=true#!zh)
+[数据驱动的文化遗产表现] (https://mp.weixin.qq.com/s/PSmTir52EBXUmbkhOLYcRg)
 
 VR/MR/元宇宙
 ====
