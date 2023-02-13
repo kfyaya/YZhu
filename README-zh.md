@@ -12,9 +12,22 @@
 交互媒体艺术教育者，开设[Unreal Engine](https://www.unrealengine.com), [Houdini](https://www.sidefx.com
 ), [TouchDesigner](https://derivative.ca) and [Processing](https://derivative.ca)课程，致力于提供虚拟现实，增强现实和混合现实解决方案
 
-[澎湃新闻对交互新媒体艺术教学与交互音乐会的报道](https://www.thepaper.cn/newsDetail_forward_18644869)
+<img src="img/shanghailib3.jpg" width = "1000" />
 
-<img src="img/thepaperdialogue2.0.jpg" width = "600" />
+上海之源文化年谱，上海图书馆, 2022 [video](https://m.manamana.net/video/detail/2103510?open=true#!zh)
+
+对话2.0-音画交互跨媒体钢琴音乐会, 2021 [澎湃报道](https://www.thepaper.cn/newsDetail_forward_18644869)
+
+数字人文
+====
+
+<img src="img/shanghailib3.jpg" width = "1000" />
+从高质量领域数据到数字人文叙事，从生成艺术到沉浸式互动展陈，上海图书馆文化年谱打造有人文温度和不能释手的文化遗产表现。
+上海图书馆历史人文大数据平台整理记录了上百万条历史人物，事件信息，并通过人文调查科学研究对它们的内容，属性，关系进行信息标定。我们在沉浸式虚拟空间对数据进行挖掘和可视化重现，展示数据库的容量内涵，复杂性和可用性。
+
+云栖大会计算设计日, 2022 [ppt](img/22_Alibaba_Computational_Design_YZhu.pdf)
+
+上海之源-文化年谱展项，上海图书馆, 2022 [video](https://m.manamana.net/video/detail/2103510?open=true#!zh)
 
 VR/MR/元宇宙
 ====
@@ -84,11 +97,6 @@ VR/MR/元宇宙
 
 Manjusaka, 2019.05, MIFA 1862, Shanghai
 
-Digital Humanity
-====
-
-<img src="img/shanghailib2.jpg" width = "1000" />
-上海图书馆历史人文大数据平台整理记录了上百万条历史人物，事件信息，并通过人文调查科学研究对它们的内容，属性，关系进行信息标定。我们在沉浸式虚拟空间对数据进行挖掘和可视化重现，展示数据库的容量内涵，复杂性和可用性。
 
 交互舞蹈
 ====
@@ -98,7 +106,7 @@ Digital Humanity
 
 <img src="img/nomorethanskin2016.jpg" width = "1000" />
 
-[《希望是长者羽毛的——皮囊》](https://youtu.be/upvl0Jtjzso), 2016.05, 苏州文化艺术中心，多媒体设计，2017年旧金山国际艺术节邀约作品
+[《希望是长着羽毛的——皮囊》](https://youtu.be/upvl0Jtjzso), 2016.05, 苏州文化艺术中心，多媒体设计，2017年旧金山国际艺术节邀约作品
 
 教学
 ====
