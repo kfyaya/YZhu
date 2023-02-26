@@ -12,16 +12,16 @@
 交互媒体艺术教育者，开设[Unreal Engine](https://www.unrealengine.com), [Houdini](https://www.sidefx.com
 ), [TouchDesigner](https://derivative.ca) and [Processing](https://derivative.ca)课程，致力于提供虚拟现实，增强现实和混合现实解决方案
 
-<img src="img/shanghailib3.jpg" width = "1000" />
-
 上海之源文化年谱，上海图书馆, 2022 [video](https://m.manamana.net/video/detail/2103510?open=true#!zh)
 
 对话2.0-音画交互跨媒体钢琴音乐会, 2021 [澎湃报道](https://www.thepaper.cn/newsDetail_forward_18644869)
 
+<img src="img/YZ_QR.png" width = "100" />
+
 数字人文
 ====
 
-<img src="img/shanghailib3.jpg" width = "1000" />
+<img src="img/shanghailib3.jpg" width = "800" />
 从高质量领域数据到数字人文叙事，从生成艺术到沉浸式互动展陈，上海图书馆文化年谱打造有人文温度和不能释手的文化遗产表现。
 上海图书馆历史人文大数据平台整理记录了上百万条历史人物，事件信息，并通过人文调查科学研究对它们的内容，属性，关系进行信息标定。我们在沉浸式虚拟空间对数据进行挖掘和可视化重现，展示数据库的容量内涵，复杂性和可用性。
 
@@ -33,8 +33,8 @@
 VR/MR/元宇宙
 ====
 
-<img src="img/result.PNG" width = "1000" />
-<img src="img/ibl.jpg" width = "1000" />
+<img src="img/result.PNG" width = "800" />
+<img src="img/ibl.jpg" width = "800" />
 
 虚实融合探究式学习系统开发平台
 
@@ -42,11 +42,11 @@ VR/MR/元宇宙
 
 [G.Ting, W. Jianmin, Z. Yongning and C. Qiuyu, "Research on Interaction Design of Chemical Inquiry Virtual Experiment Based on Augmented Reality Technology," 2021 IEEE 7th International Conference on Virtual Reality (ICVR), 2021, pp. 340-351](https://ieeexplore.ieee.org/document/9483706)
 
-<img src="img/dunhuang285.png" width = "1000" />
+<img src="img/dunhuang285.png" width = "800" />
 
 敦煌研究院科研成果在莫高窟洞窟中的沉浸式展示
 
-<img src="img/pfp.jpg" width = "1000" />
+<img src="img/pfp.jpg" width = "800" />
 
 [S. Du, T. Ge, J. Pei, J. Wang, C. Yin and Y. Zhu, "Panoramic Fluid Painting," 2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR), 2019, pp. 904-905](https://youtu.be/upvl0Jtjzso)
 
@@ -54,7 +54,7 @@ VR/MR/元宇宙
 
 物理仿真和物理动画
 ====
-<img src="img/sand.jpg" width = "1000" />
+<img src="img/sand.jpg" width = "800" />
 
 [Y. Zhu and R. Bridson. 2005. Animating sand as a fluid. ACM Trans. Graph. 24, 3 (July 2005), 965–972.](https://dl.acm.org/doi/10.1145/1073204.1073298)
 
@@ -64,14 +64,14 @@ VR/MR/元宇宙
 
 [Y.Zhu, E. Sifakis, J. Teran, and A. Brandt. 2010. An efficient multigrid method for the simulation of high-resolution elastic solids. ACM Trans. Graph. 29, 2, Article 16 (March 2010), 18 pages.](https://dl.acm.org/doi/10.1145/1731047.1731054)
 
-<img src="img/charskinning.jpg" width = "1000" />
+<img src="img/charskinning.jpg" width = "800" />
 &copy; Disney Enterprise Inc.
 
 [A.McAdams et al. 2011. Efficient elasticity for character skinning with contact and collisions. ACM Trans. Graph. 30, 4, Article 37 (July 2011), 12 pages.](https://dl.acm.org/doi/10.1145/2010324.1964932)
 [[Youtube]](https://www.youtube.com/watch?v=KDvfFzFIruQ)
 精细动画人物的肌肉模拟耗时巨大，动画制作中需要实现具有特定艺术设计要求的夸张形变的拉伸与挤压。多重网格方法在均匀网格和常规Neo-Hookean材质弹性形变方程方面提出了快速方法。针对拉伸压缩(Squash and stretch)中收缩和挤出现象所需的近似不可压缩材质导致的系统病态问题提出了解决方法，实现了接近理论结果的一致性的收敛速率。人物动画中模型碰撞同时得到自动结算，节省了大量人力资源。
 
-<img src="img/civil-OUT2.2.jpg" width = "1000" />
+<img src="img/civil-OUT2.2.jpg" width = "800" />
 地震灾害建筑物倒塌模拟中由于大形变导致有限元单元失效，通过物理引擎重建失效单元复原倒塌过程，大大改进灾害评估方法，修正评估误差。
 
 音画交互
@@ -79,9 +79,9 @@ VR/MR/元宇宙
 
 <img src="img/thepaperdialogue2.0.jpg" width = "600" />
 
-<img src="img/springriver.jpg" width = "1000" />
+<img src="img/springriver.jpg" width = "800" />
 
-<img src="img/yellowriver.jpg" width = "1000" />
+<img src="img/yellowriver.jpg" width = "800" />
 
 对话2.0, 2021, 同济大学(Coming soon......)
 [澎湃新闻对交互新媒体艺术教学与交互音乐会的报道](https://www.thepaper.cn/newsDetail_forward_18644869)
@@ -91,21 +91,21 @@ VR/MR/元宇宙
 算法生成与艺术设计，红色经典与江南软哝，音乐表演与沉浸式新媒体艺术碰撞出怎样的火花？
 对话2.0——古典琴韵与红色经典
 
-<img src="img/shanghaispring2019.jpg" width = "1000" />
+<img src="img/shanghaispring2019.jpg" width = "800" />
 [对话1.0](https://mp.weixin.qq.com/s/vcA09qC7PdqaqlnhkXyuGQ), 上海之春国际音乐节, 2020
 
-<img src="img/75.png" width = "1000" />
+<img src="img/75.png" width = "800" />
 
 Manjusaka, 2019.05, MIFA 1862, Shanghai
 
 
 交互舞蹈
 ====
-<img src="img/rehearsal1.mp4_20170510_115102.394.jpg" width = "1000" />
+<img src="img/rehearsal1.mp4_20170510_115102.394.jpg" width = "800" />
 
 [两仪万象](https://youtu.be/upvl0Jtjzso), 2016.03, 同济大学德国音乐周
 
-<img src="img/nomorethanskin2016.jpg" width = "1000" />
+<img src="img/nomorethanskin2016.jpg" width = "800" />
 
 [《希望是长着羽毛的——皮囊》](https://youtu.be/upvl0Jtjzso), 2016.05, 苏州文化艺术中心，多媒体设计，2017年旧金山国际艺术节邀约作品
 
@@ -117,17 +117,17 @@ Manjusaka, 2019.05, MIFA 1862, Shanghai
 * [2018 暑期工坊](https://mp.weixin.qq.com/s/vcA09qC7PdqaqlnhkXyuGQ)
 * [2019 student works](https://www.manamana.net/video/detail?id=58733#!en).
 * [2020 student works](https://mp.weixin.qq.com/s/XJS4VDbDi-yE0CIwLGko3g)
-<img src="img/chenyining.jpg" width = "1000" />
+<img src="img/chenyining.jpg" width = "800" />
 Yining Chen
-<img src="img/tangziyan.jpg" width = "1000" />
+<img src="img/tangziyan.jpg" width = "800" />
 Ziyan Tang
-<img src="img/zhangmingxuan.jpg" width = "1000" />
+<img src="img/zhangmingxuan.jpg" width = "800" />
 Mingxuan Zhang
-<img src="img/caojun.jpg" width = "1000" />
+<img src="img/caojun.jpg" width = "800" />
 Jun Cao
-<img src="img/tree-deer.jpg" width = "1000" />
+<img src="img/tree-deer.jpg" width = "800" />
 Yibo Wang
-<img src="img/cliff-lotus-2.JPG" width = "1000" />
+<img src="img/cliff-lotus-2.JPG" width = "800" />
 Yiling He
 
 课程信息
