@@ -19,6 +19,8 @@ Persistently seeking for procedural solutions utilizing computer graphics and vi
 
 [Shanghai Memory -- A cultural chronology generative and interactive installation, Shanghai Library, 2022](https://m.manamana.net/video/detail/2103510?open=true#!zh)
 
+<img src="img/YZ_QR.png" width = "100" />
+
 Digital Humanity
 ====
 
