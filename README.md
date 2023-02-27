@@ -113,7 +113,8 @@ Student works
 I have been teaching Interactive Programming and New Media Art in Tongji University mainly with Houdini, TouchDesigner and Unreal Engine. Here is a collection of the student works:
 * [2018 student works in Shanghai Spring International Music Festival](https://mp.weixin.qq.com/s/vcA09qC7PdqaqlnhkXyuGQ)
 * [2019 student works](https://www.manamana.net/video/detail?id=58733#!en).
-* [2020 student works](https://mp.weixin.qq.com/s/XJS4VDbDi-yE0CIwLGko3g)
+* [2020 From interactive Media to ](https://mp.weixin.qq.com/s/XJS4VDbDi-yE0CIwLGko3g)
+* [2022 Virtual Space Design](https://mp.weixin.qq.com/s/Em2THMAXrd6p5xdwYcschQ)
 
 [爱在人间Ode to Love](https://mp.weixin.qq.com/s/2Xwh0ZZTXTa1QkkMOsRa7g)
 谢佳璇Jiaxuan Xie
