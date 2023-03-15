@@ -60,7 +60,7 @@ This work pioneers the [FLIP fluid simulation](https://www.fxguide.com/fxfeature
 
 <img src="img/mg.jpg" width = "1000" />
 
-[Y.Zhu, E. Sifakis, J. Teran, and A. Brandt. 2010. An efficient multigrid method for the simulation of high-resolution elastic solids. ACM Trans. Graph. 29, 2, Article 16 (March 2010), 18 pages.](https://dl.acm.org/doi/10.1145/1731047.1731054)
+[Y.Zhu, E. Sifakis, J. Teran, and A. Brandt. 2010. An efficient multigrid method for the simulation of high-resolution elastic solids. ACM Trans. Graph. 29, 2, Article 16 (March 2010).](https://dl.acm.org/doi/10.1145/1731047.1731054)
 
 Multigrid methods are wellknown as a fast solver for elasticity problems. However, for near-incompressible materials, required in the simulation of bulging and stretching effects in animation, the problem becomes ill-posed. We introduced a solution with continuation even to the extreme of animation exageration, and demonstrated its applicability to arbitrary articulated characters. 
 
