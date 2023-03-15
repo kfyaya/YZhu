@@ -2,12 +2,12 @@ Yongning Zhu
 ====
 <small><a href="README-zh.html">中文</a></small>
 
-Physics-based Animation algorithm developer, credited for the FLIP fluid simulation ( [fxguide] (https://www.fxguide.com/fxfeatured/the-science-of-fluid-sims/) )and [multigrid character simulation](https://www.youtube.com/watch?v=0WfFCqKDLB0)
+Physics-based Animation algorithm developer, credited for the FLIP fluid simulation ( \[fxguide(https://www.fxguide.com/fxfeatured/the-science-of-fluid-sims/)\] )and \[multigrid character simulation(https://www.youtube.com/watch?v=0WfFCqKDLB0)\]
 
 Computer graphics and visual effects software engineer in DreamWorks Animation, joined in How to Catch your Dragon II, Troll, Rise of the Guardians, and Croods
 
-And interactive media art professor at Tongji University, teaching [Unreal Engine](https://www.unrealengine.com), [Houdini](https://www.sidefx.com
-), [TouchDesigner](https://derivative.ca) and [Processing](https://derivative.ca).
+And interactive media art professor at Tongji University, teaching \[Unreal Engine(https://www.unrealengine.com)\], \[Houdini(https://www.sidefx.com
+)\], \[TouchDesigner(https://derivative.ca)\] and \[Processing(https://derivative.ca)\].
 
 Persistently seeking for procedural solutions utilizing computer graphics and visual effects techniques to build up sustainable visualization solutions in mixed reality solutions for scientific visualization, public media space, interactive performance, and a variaty of digital humanity fields. 
 
@@ -67,7 +67,7 @@ Multigrid methods are wellknown as a fast solver for elasticity problems. Howeve
 <img src="img/charskinning.jpg" width = "1000" />
 &copy; Disney Enterprise
 
-[A.McAdams et al. 2011. Efficient elasticity for character skinning with contact and collisions. ACM Trans. Graph. 30, 4, Article 37 (July 2011), 12 pages.](https://dl.acm.org/doi/10.1145/2010324.1964932) [Youtube](https://www.youtube.com/watch?v=KDvfFzFIruQ)
+[A.McAdams et al. 2011. Efficient elasticity for character skinning with contact and collisions. ACM Trans. Graph. 30, 4, Article 37 (July 2011), 12 pages.](https://dl.acm.org/doi/10.1145/2010324.1964932) \[Youtube\](https://www.youtube.com/watch?v=KDvfFzFIruQ)
 
 <img src="img/civil-OUT2.2.jpg" width = "1000" />
 Destruction fragments are missing in the Finite Element simulation of earthquake destruction due to the element fracture and ill-conditioning. Rigid body dynamics are used to reconstruct and continue the simulation of broken fractures and recover the debris extention. 
