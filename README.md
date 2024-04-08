@@ -10,7 +10,7 @@ And interactive media art professor at Tongji University, teaching [Unreal Engin
 
 Persistently seeking for procedural solutions utilizing computer graphics and visual effects techniques to build up sustainable visualization solutions in mixed reality solutions for scientific visualization, public media space, interactive performance, and a variaty of digital humanity fields. 
 
-<img src="img/GPB.jpg" width = "500" />
+<img src="img/GPB.jpg" width = "400" />
 For the first time worldwide, the whole-genome sequencing of a Chinese individual from telomere to telomere is completed and published in Genomics, Proteomics and Bioinformatics. 
 The cover art is designed by Yongning Zhu from Shanghai Jiao Tong University. This artwork draws inspiration from both the timeless portrait of Yao captured on pictorial stones millennia ago and contemporary chromosome images from T2T-YAO, the newly discovered. The gentle glow filtering through the crevice hints at the bright future awaiting scientific genome-based discoveries. Envision a thousand years hence, when our descendants might stumble upon this very issue - would they, with the same empathy and gratitude, recognize and honor the dedication woven into the scientists efforts?
 [Reported by Science and Technology Daily, 2024](https://app.kjrb.com.cn/app/template/displayTemplate/news/newsDetail/7/177201.html?isShare=true)
@@ -63,6 +63,12 @@ Digital Humanities Platform in Shanghai library keeps nearly a million records a
 [Alibaba APSARA 2022, Computational Design Day](https://yunqi.aliyun.com/2022/highlight/session7), [ppt](img/22_Alibaba_Computational_Design_YZhu.pdf), [Video](https://www.bilibili.com/video/BV1LG4y1f766/?vd_source=1ba966098d4a295d4f1acb5deff88edc%2F%3Ft%3D0h55m00s)
 
 [Shanghai Memory -- A cultural chronology generative and interactive installation, Shanghai Library, 2022](https://m.manamana.net/video/detail/2103510?open=true#!zh)
+
+<img src="img/GPB.jpg" width = "400" />
+For the first time worldwide, the whole-genome sequencing of a Chinese individual from telomere to telomere is completed and published in Genomics, Proteomics and Bioinformatics. 
+The cover art is designed by Yongning Zhu from Shanghai Jiao Tong University. This artwork draws inspiration from both the timeless portrait of Yao captured on pictorial stones millennia ago and contemporary chromosome images from T2T-YAO, the newly discovered. The gentle glow filtering through the crevice hints at the bright future awaiting scientific genome-based discoveries. Envision a thousand years hence, when our descendants might stumble upon this very issue - would they, with the same empathy and gratitude, recognize and honor the dedication woven into the scientists efforts?
+[Reported by Science and Technology Daily, 2024](https://app.kjrb.com.cn/app/template/displayTemplate/news/newsDetail/7/177201.html?isShare=true)
+
 
 VR/MR/MetaVerse
 ====
