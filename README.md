@@ -11,13 +11,14 @@ And interactive transmedia art professor at Tongji University, teaching [Unreal 
 Persistently seeking for procedural solutions utilizing computer graphics and visual effects techniques to build up sustainable visualization solutions in mixed reality solutions for scientific visualization, public media space, interactive performance, and a variaty of digital humanity fields. 
 
 <img src="img/GPB.jpg" width = "400" />
+
 For the first time worldwide, the whole-genome sequencing of a Chinese individual from telomere to telomere is completed and this work is published in a recent issue of Genomics, Proteomics and Bioinformatics. 
 The cover art is designed by Yongning Zhu from Shanghai Jiao Tong University. Drawing inspiration from the ancient portrait of Yao etched on pictorial stones millennia ago and modern electron microscope images of chromosomes, this artwork beautifully presents a fusion of the misterious archaeological relics with the illuminating discoveries brought forth by modern technology. The gentle glow filtering through the crevice hints at the promising future awaiting scientific genome-based discoveries. Envision a thousand years hence, when our descendants might stumble upon this very issue - would they, with the same empathy and gratitude, recognize and appreciate the dedication woven into the publication?
 [Reported by Science and Technology Daily, 2024](https://app.kjrb.com.cn/app/template/displayTemplate/news/newsDetail/7/177201.html?isShare=true)
 
 <img src="img/dialogue.jpg" width = "700" />
 
-[Interactive new media art concert Dialogue, 2021](https://youtu.be/xkRxltHY4xw)
+[Interactive new media art concert Dialogue 2.0, 2021](https://youtu.be/xkRxltHY4xw)
 
 <img src="img/shanghailib3.jpg" width = "700" />
 
