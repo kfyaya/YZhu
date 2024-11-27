@@ -61,7 +61,7 @@ Digital Humanities Platform in Shanghai library keeps nearly a million records a
 
 [Y. Zhu et al., "Vitalizing cultural memory with immersive data storytelling," 2023 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), Shanghai, China, 2023, pp. 468-473](https://ieeexplore.ieee.org/document/10108663)
 
-[Alibaba APSARA 2022, Computational Design Day](https://yunqi.aliyun.com/2022/highlight/session7), [ppt](img/22_Alibaba_Computational_Design_YZhu.pdf), [Video](https://www.bilibili.com/video/BV1LG4y1f766/?vd_source=1ba966098d4a295d4f1acb5deff88edc%2F%3Ft%3D0h55m00s)
+[Alibaba APSARA 2022, Computational Design Day](https://yunqi.aliyun.com/2022/highlight/session7), [ppt](img/22_Alibaba_Computational_Design_YZhu.pdf), [talk](https://www.bilibili.com/video/BV1LG4y1f766/?vd_source=1ba966098d4a295d4f1acb5deff88edc%2F%3Ft%3D0h45m06s%3Fp%3D21&t=45m06s)
 
 [Shanghai Memory -- A cultural chronology generative and interactive installation, Shanghai Library, 2022](https://m.manamana.net/video/detail/2103510?open=true#!zh)
 
