@@ -2,13 +2,20 @@ Yongning Zhu
 ====
 <small><a href="README-zh.html">中文</a></small>
 
-Physics-based Animation algorithm developer, credited for the [FLIP fluid simulation](https://www.fxguide.com/fxfeatured/the-science-of-fluid-sims/) and [multigrid character simulation](https://www.youtube.com/watch?v=0WfFCqKDLB0)
+Institute of Natural Sciences
+Shanghai Jiao Tong University
+800 Dongchuan Rd. Shanghai, China
+yzhucg@sjtu.edu.cn
 
-Computer graphics and visual effects software engineer in DreamWorks Animation, joined in How to Catch your Dragon II, Troll, Rise of the Guardians, and Croods
+- Graduated from UCLA, Applied Mathematics. 
 
-And interactive transmedia art professor at Tongji University, teaching [Unreal Engine](https://www.unrealengine.com), [Houdini](https://www.sidefx.com), [TouchDesigner](https://derivative.ca) and [Processing](https://derivative.ca).
+- Physics-based Animation algorithm developer, credited for the [FLIP fluid simulation](https://www.fxguide.com/fxfeatured/the-science-of-fluid-sims/) and [multigrid character simulation](https://www.youtube.com/watch?v=0WfFCqKDLB0)
 
-Persistently seeking for procedural solutions utilizing computer graphics and visual effects techniques to build up sustainable visualization solutions in mixed reality solutions for scientific visualization, public media space, interactive performance, and a variaty of digital humanity fields. 
+- Computer graphics and visual effects software engineer in DreamWorks Animation, joined in How to Catch your Dragon II, Troll, Rise of the Guardians, and Croods
+
+- Interactive transmedia art professor at Tongji University, teaching [Unreal Engine](https://www.unrealengine.com), [Houdini](https://www.sidefx.com), [TouchDesigner](https://derivative.ca) and [Processing](https://derivative.ca).
+
+- Persistently seeking for procedural solutions combining computer graphics and visual effects techniques to build up sustainable visualization solutions in mixed reality. This pursuit extends into various domains, including scientific visualization, public media spaces, interactive performance, and across a spectrum of digital humanities fields.
 
 <img src="img/GPB.jpg" width = "400" />
 
